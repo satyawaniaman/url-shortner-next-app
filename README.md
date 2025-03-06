@@ -2,7 +2,6 @@
 
 A powerful URL shortening service built with modern technologies including Next.js, MongoDB, Shadcn/UI, and Clerk for authentication. The project features a user dashboard for managing links and comprehensive analytics.
 
-![preview](/public/preview-dark.png)
 
 ## Features
 
